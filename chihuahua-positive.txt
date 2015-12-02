@@ -1,0 +1,12 @@
+Pictures/Chihuahua/1.jpg 1 0 0 600 600
+Pictures/Chihuahua/2.jpg 1 0 0 600 600
+Pictures/Chihuahua/3.jpg 1 0 0 600 600
+Pictures/Chihuahua/4.jpg 1 0 0 600 600
+Pictures/Chihuahua/5.jpg 1 0 0 600 600
+Pictures/Chihuahua/6.jpg 1 0 0 600 600
+Pictures/Chihuahua/7.jpg 1 0 0 600 600
+Pictures/Chihuahua/8.jpg 1 0 0 600 600
+Pictures/Chihuahua/9.jpg 1 0 0 600 600
+Pictures/Chihuahua/10.jpg 1 0 0 600 600
+Pictures/Chihuahua/11.jpg 1 0 0 600 600
+Pictures/Chihuahua/12.jpg 1 0 0 600 600

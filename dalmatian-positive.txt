@@ -1,0 +1,12 @@
+Pictures/Dalmatian/1.jpg 1 0 0 600 600
+Pictures/Dalmatian/2.jpg 1 0 0 600 600
+Pictures/Dalmatian/3.jpg 1 0 0 600 600
+Pictures/Dalmatian/4.jpg 1 0 0 600 600
+Pictures/Dalmatian/5.jpg 1 0 0 600 600
+Pictures/Dalmatian/6.jpg 1 0 0 600 600
+Pictures/Dalmatian/7.jpg 1 0 0 600 600
+Pictures/Dalmatian/8.jpg 1 0 0 600 600
+Pictures/Dalmatian/9.jpg 1 0 0 600 600
+Pictures/Dalmatian/10.jpg 1 0 0 600 600
+Pictures/Dalmatian/11.jpg 1 0 0 600 600
+Pictures/Dalmatian/12.jpg 1 0 0 600 600

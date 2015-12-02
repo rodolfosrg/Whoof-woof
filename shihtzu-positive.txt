@@ -1,0 +1,12 @@
+Pictures/ShihTzu/1.jpg 1 0 0 600 600
+Pictures/ShihTzu/2.jpg 1 0 0 600 600
+Pictures/ShihTzu/3.jpg 1 0 0 600 600
+Pictures/ShihTzu/4.jpg 1 0 0 600 600
+Pictures/ShihTzu/5.jpg 1 0 0 600 600
+Pictures/ShihTzu/6.jpg 1 0 0 600 600
+Pictures/ShihTzu/7.jpg 1 0 0 600 600
+Pictures/ShihTzu/8.jpg 1 0 0 600 600
+Pictures/ShihTzu/9.jpg 1 0 0 600 600
+Pictures/ShihTzu/10.jpg 1 0 0 600 600
+Pictures/ShihTzu/11.jpg 1 0 0 600 600
+Pictures/ShihTzu/12.jpg 1 0 0 600 600

@@ -1,0 +1,12 @@
+Pictures/Weimaraner/1.jpg 1 0 0 600 600
+Pictures/Weimaraner/2.jpg 1 0 0 600 600
+Pictures/Weimaraner/3.jpg 1 0 0 600 600
+Pictures/Weimaraner/4.jpg 1 0 0 600 600
+Pictures/Weimaraner/5.jpg 1 0 0 600 600
+Pictures/Weimaraner/6.jpg 1 0 0 600 600
+Pictures/Weimaraner/7.jpg 1 0 0 600 600
+Pictures/Weimaraner/8.jpg 1 0 0 600 600
+Pictures/Weimaraner/9.jpg 1 0 0 600 600
+Pictures/Weimaraner/10.jpg 1 0 0 600 600
+Pictures/Weimaraner/11.jpg 1 0 0 600 600
+Pictures/Weimaraner/12.jpg 1 0 0 600 600
